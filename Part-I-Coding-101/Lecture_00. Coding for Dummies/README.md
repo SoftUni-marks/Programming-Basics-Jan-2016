@@ -2,5 +2,5 @@
 
 | Video | Date | Trainer |
 |:------|:-----|:--------|
-|[![15 Jan 2016 - Svetlin](https://i.ytimg.com/vi_webp/PNvzxw5AlTY/mqdefault.webp)](https://www.youtube.com/watch?v=Ua3vXmvbv9M)| <b>15 Jan 2016 - 14:00</b> | <b>Svetlin Nakov</b> |
-|[![15 Jan 2016 - Svetlin](https://i.ytimg.com/vi_webp/W0j7kX61S_M/mqdefault.webp)](https://www.youtube.com/watch?v=W0j7kX61S_M)| <b>15 Jan 2016 - 14:00 <br />Camera</b> | <b>Svetlin Nakov</b> |
+|[![15 Jan 2016 - Svetlin](http://img.youtube.com/vi/PNvzxw5AlTY/0.jpg)](https://www.youtube.com/watch?v=Ua3vXmvbv9M)| <b>15 Jan 2016 - 14:00</b> | <b>Svetlin Nakov</b> |
+|[![15 Jan 2016 - Svetlin](http://img.youtube.com/vi/W0j7kX61S_M/0.jpg)](https://www.youtube.com/watch?v=W0j7kX61S_M)| <b>15 Jan 2016 - 14:00 <br />Camera</b> | <b>Svetlin Nakov</b> |
