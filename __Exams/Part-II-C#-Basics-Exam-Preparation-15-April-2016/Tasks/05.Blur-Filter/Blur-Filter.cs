@@ -44,8 +44,8 @@ public class BlurFilter
             {
                 int col = pixelCol + colShift;
 
-                if (0 <= row & row < rows &
-                    0 <= col & col < cols)
+                if (0 <= row && row < rows &&
+                    0 <= col && col < cols)
                 {
                     matrix[row][col] += blurAmount;
                 }
